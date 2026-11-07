@@ -76,10 +76,10 @@ agente-nova/
 ├── AGENT.md                 definicao canonica do agente
 ├── .agent/agent.json        metadados legiveis por maquina
 ├── skills/
-│   └── desenho-de-atividade/SKILL.md
-│   └── historias-de-usuario/SKILL.md
-│   └── priorizacao/SKILL.md
-│   └── metricas-de-produto/SKILL.md
+│   ├── desenho-de-atividade/SKILL.md
+│   ├── historias-de-usuario/SKILL.md
+│   ├── priorizacao/SKILL.md
+│   ├── metricas-de-produto/SKILL.md
 │   └── comunicacao-de-status/SKILL.md
 ├── install/README.md        instalacao nas 8 CLIs
 └── assets/portrait.png
